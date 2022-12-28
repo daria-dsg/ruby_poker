@@ -1,6 +1,6 @@
 # ruby_poker
 
-Comman line poker game in ruby, five card draw 
+Command line poker game in ruby, five card draw 
 
 ### Learning goals 
 
