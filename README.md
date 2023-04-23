@@ -4,7 +4,7 @@ Command line poker game in ruby, five card draw
 
 ### Learning goals 
 
-The goal of thie porject was to learn how to wirte unit tests with rspec
+The goal of thie project was to learn how to write unit tests with rspec
 
 * Be able to define desired functionality, write specs, and then implement
 * Know how to follow red, green, refactor TDD workflow
